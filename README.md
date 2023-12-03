@@ -3,8 +3,11 @@
 
 <h3 align="left">What am I currently doing :clipboard:</h3>
 
+- 🌱 I’m currently polishing my skills in: **Cyber Security field**
+<!--
 - 🌱 I’m currently polishing my skills in: **JavaScript**, **SCSS**, **HTML** 
 - 🔭 I’m currently learning: **React**, **Python**
+-->
 
 <h3 align="left">My Achievements :trophy:</h3>
 
